@@ -1,4 +1,4 @@
-package com.example.SecEx;
+package com.example.SecEx.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;

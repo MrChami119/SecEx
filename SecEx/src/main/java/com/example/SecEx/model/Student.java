@@ -1,4 +1,4 @@
-package com.example.SecEx;
+package com.example.SecEx.model;
 
 public class Student {
 
